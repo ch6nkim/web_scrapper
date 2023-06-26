@@ -62,3 +62,7 @@ for result in results:
 # git config --global user.email "chanhyung.kim1130@gmail.com"
 
 
+for num in range(9):
+  print(f"{num}")
+
+#2 x 1 = 2
