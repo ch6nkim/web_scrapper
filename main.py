@@ -55,11 +55,10 @@ else:
 for result in results:
   print(result)
 
+for index, result in enumerate(results):
+  print(index, "- ", result)
+
 # git config --global user.name "Chan"
 # git config --global user.email "chanhyung.kim1130@gmail.com"
-
-
-
-
 
 
